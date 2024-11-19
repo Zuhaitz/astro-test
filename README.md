@@ -1,3 +1,3 @@
-# Astro Starter Kit: Basics
+# Astro App Test
 
 Astro app for testing purposes and learning.
